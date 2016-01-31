@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "APIandUnitTest"
-  },
   "author": "Kyle Szymanski",
   "license": "ISC",
   "dependencies": {
@@ -19,6 +15,7 @@
   "devDependencies": {
     "expect": "^1.13.4",
     "mocha": "^2.4.5",
+    "pm2": "^1.0.0",
     "supertest": "^1.1.0"
   }
 }
